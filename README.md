@@ -1,7 +1,7 @@
 # NBA-2020-21-Statistics-Data-Analytics
 NBA 2020-21 Season Statistics Data Analytics using PostgreSQL
 
-I pulled the data of the 2020-21 NBA regular and postseason games from ESPN's website and copied the data into a CSV file so that I could easily input the data into a database using PostgreSQL
+I pulled the data of the 2020-21 NBA regular and postseason games from ESPN's website and copied the data into a CSV file so that I could easily input the data into a database using PostgreSQL and pgAdmin4
 
 
 
